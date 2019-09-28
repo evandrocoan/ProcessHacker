@@ -68,8 +68,8 @@
   <setting name="PluginsDirectory">plugins</setting>
   <setting name="ProcessServiceListViewColumns">0,236|1,220</setting>
   <setting name="ProcessTreeListColumns">0,0,208|1,1,50|2,3,45|3,13,71|4,16,79|5,25,261|6,23,376|9,24,736|10,20,728|12,17,77|21,19,80|32,4,109|36,22,70|37,21,151|40,2,31|41,18,60|46,15,77|48,14,72|+ProcessHacker.ExtendedTools+3,10,70|+ProcessHacker.ExtendedTools+4,12,70|+ProcessHacker.ExtendedTools+13,8,76|+ProcessHacker.ExtendedTools+14,6,78|+ProcessHacker.ExtendedTools+27,9,70|+ProcessHacker.ExtendedTools+28,11,70|+ProcessHacker.ExtendedTools+30,7,68|+ProcessHacker.ExtendedTools+31,5,70</setting>
-  <setting name="ProcessTreeListSort">32,2</setting>
-  <setting name="ProcPropPage">General</setting>
+  <setting name="ProcessTreeListSort">12,2</setting>
+  <setting name="ProcPropPage">Performance</setting>
   <setting name="ProcPropPosition">565,220</setting>
   <setting name="ProcPropSize">784,539</setting>
   <setting name="ProgramInspectExecutables">peview.exe &quot;%s&quot;</setting>
@@ -89,9 +89,9 @@
   <setting name="StartHidden">1</setting>
   <setting name="SysInfoWindowAlwaysOnTop">0</setting>
   <setting name="SysInfoWindowOneGraphPerCpu">1</setting>
-  <setting name="SysInfoWindowPosition">0,98</setting>
-  <setting name="SysInfoWindowSection">CPU</setting>
-  <setting name="SysInfoWindowSize">1028,623</setting>
+  <setting name="SysInfoWindowPosition">86,34</setting>
+  <setting name="SysInfoWindowSection">Memory</setting>
+  <setting name="SysInfoWindowSize">1028,622</setting>
   <setting name="ThinRows">0</setting>
   <setting name="ThreadTreeListColumns">0,,50|1,,45|2,,80|3,,543|4,,80|5,,100</setting>
   <setting name="ThreadTreeListSort">3,1</setting>

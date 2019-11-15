@@ -1,0 +1,3 @@
+[submodule "OtherTools/timetray"]
+	path = OtherTools/timetray
+	url = https://github.com/evandroforks/timetray

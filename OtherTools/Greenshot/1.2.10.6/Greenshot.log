@@ -1,0 +1,5 @@
+﻿2019-09-22 15:47:09,636 [Greenshot] ERROR - [GreenshotPlugin.Core.ClipboardHelper] An unexpected error occured while writing to the clipboard.
+System.Runtime.InteropServices.ExternalException (0x800401D0): Requested Clipboard operation did not succeed.
+   at System.Windows.Forms.Clipboard.ThrowIfFailed(Int32 hr)
+   at System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay)
+   at GreenshotPlugin.Core.ClipboardHelper.SetDataObject(IDataObject ido, Boolean copy)
